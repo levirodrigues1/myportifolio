@@ -1,0 +1,28 @@
+
+:root {
+    --colorColorPurple50: #f4f1fd;    
+    --colorColorPurple100: #e2dafb;    
+    --colorColorPurple200: #c6b6f7;    
+    --colorColorPurple300: #a991f3;    
+    --colorColorPurple400: #8d6cef;    
+    --colorColorPurple500: #7047eb;    
+    --colorColorPurple600: #5423e7;    
+    --colorColorPurple700: #4316ca;    
+    --colorColorPurple800: #3712a5;    
+    --colorColorPurple900: #2b0e81;    
+    --colorColorAccent50: var(--colorColorPurple50);    
+    --colorColorAccent100: var(--colorColorPurple100);    
+    --colorColorAccent200: var(--colorColorPurple200);    
+    --colorColorAccent300: var(--colorColorPurple300);    
+    --colorColorAccent400: var(--colorColorPurple400);    
+    --colorColorAccent500: var(--colorColorPurple500);    
+    --colorColorAccent600: var(--colorColorPurple600);    
+    --colorColorAccent700: var(--colorColorPurple700);    
+    --colorColorAccent800: var(--colorColorPurple800);    
+    --colorColorAccent900: var(--colorColorPurple900);    
+    --colorColorButtonPrimaryDefault: var(--colorColorAccent500);    
+    --colorColorButtonPrimaryHover: var(--colorColorAccent600);    
+    --colorColorButtonPrimaryDisabled: var(--colorColorAccent100);    
+    --colorColorSurfaceAccentSubtle: var(--colorColorAccent100);    
+    --colorColorBannerBackgroundAccent: var(--colorColorSurfaceAccentSubtle);    
+}
