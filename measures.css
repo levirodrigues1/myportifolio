@@ -1,0 +1,14 @@
+
+:root {
+    --measureBorderRadiusNone: 0px;    
+    --measureBorderRadiusSm: 4px;    
+    --measureBorderRadiusMd: 8px;    
+    --measureBorderRadiusLg: 16px;    
+    --measureBorderRadiusXl: 32px;    
+    --measureBorderRadius2xl: 128px;    
+    --measureBorderRadius3xl: 360px;    
+    --measureBorderRadiusButtonBorderRadius: var(--measureBorderRadiusMd);    
+    --measureBorderRadiusBadgeBorderRadius: var(--measureBorderRadiusMd);    
+    --measureBorderRadiusInputBorderRadius: var(--measureBorderRadiusMd);    
+    --measureBorderRadiusAvatarBorderRadius: var(--measureBorderRadius3xl);    
+}
